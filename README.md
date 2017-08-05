@@ -1,5 +1,6 @@
-# hello-word
+﻿# hello-word
 This is my first time
 i have sth to confess ahihi
 Vo Khanh Toan
 Su dung lệnh fetch
+Đang sửa trên local
